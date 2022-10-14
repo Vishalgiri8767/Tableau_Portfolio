@@ -1,5 +1,5 @@
 # Customer Analysis - Descriptive
-Task TODO
+
 - Revenue per State
 - Revenue based on Month of the year
 - Revenue based on Age
